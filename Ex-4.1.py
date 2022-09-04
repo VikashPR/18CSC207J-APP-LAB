@@ -3,6 +3,7 @@ from tkinter.tix import COLUMN
 
 app = Tk()
 
+
 app.title("App Lab Ex-4.1")
 
 regNo_label = Label(app, text="Reg No")
